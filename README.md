@@ -7,13 +7,7 @@
 
 ## 如何使用？
 
-见视频：
-
-<video width="720" height="1080" controls>
-
-	<source src="./demo/demo.mp4" type="video/mp4">
-
-</video>
+见[视频](https://github.com/startpenghubingzhou/SGSBaoWidget/blob/main/demo/demo.mp4)。
 
 ## 哪个版本可以使用？
 
